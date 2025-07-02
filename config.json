@@ -1,0 +1,21 @@
+{
+  "googleSheet": {
+    "apiKey": "AIzaSyCyw6iaAuVhBF8vfj5feZ1lq7zB81iW1AA",
+    "sheetId": "10yKuOSPlbLTkSng48f2glyAVx_Cpu4amBNm8Zpb2o6w"
+  },
+  "firebase": {
+    "config": {
+      "apiKey": "AIzaSyCW2hFtbqm4LEtwtlARilrMLszW_l195iA",
+      "authDomain": "dev-774a0.firebaseapp.com",
+      "projectId": "dev-774a0",
+      "storageBucket": "dev-774a0.appspot.com",
+      "messagingSenderId": "185584894542",
+      "appId": "1:185584894542:web:51a2e9e0b7ee1a5468b91f"
+    }
+  },
+  "developerInfo": {
+    "name": "Yash Waghotkar",
+    "email": "yrwwry1221@gmail.com",
+    "instagramUrl": "https://www.instagram.com/mr_yash_waghotkar_?igsh=MWQ0cHVqZno2emluaA=="
+  }
+}
