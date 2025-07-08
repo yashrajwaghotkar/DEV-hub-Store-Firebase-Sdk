@@ -1,0 +1,46 @@
+[
+  {
+    "id": "series-mirzapur",
+    "title": "Mirzapur",
+    "logoUrl": "https://i.ibb.co/23DX26SV/Picsart-25-07-08-15-12-54-737.jpg",
+    "seasons": [
+      {
+        "season_title": "Season 1",
+        "episodes": [
+          { "title": "S01 E01: Jhandu", "url": "http://6rga.a0p3.com/vod/1/2024/09/29/49befd854bae/216441673.mp4?wsSecret=44be16bb879bdc7feeef9c2107454a22&wsTime=686cea32" },
+          { "title": "S01 E02: Gooda", "url": "http://6rga.a0p3.com/vod/1/2024/09/29/6f35ae99b31b/217521279.mp4?wsSecret=7fd699490507d06a0020587eb694bbdc&wsTime=686cea17" },
+          { "title": "S01 E03: Wafadar", "url": "https://example.com/mirzapur_s01e03.mp4" },
+          { "title": "S01 E04: Virginity", "url": "https://example.com/mirzapur_s01e04.mp4" },
+          { "title": "S01 E05: Bhaukaal", "url": "https://example.com/mirzapur_s01e05.mp4" },
+          { "title": "S01 E06: Barfi", "url": "https://example.com/mirzapur_s01e06.mp4" },
+          { "title": "S01 E07: Lions of Mirzapur", "url": "https://example.com/mirzapur_s01e07.mp4" },
+          { "title": "S01 E08: Tandav", "url": "https://example.com/mirzapur_s01e08.mp4" },
+          { "title": "S01 E09: Yogya", "url": "https://example.com/mirzapur_s01e09.mp4" }
+        ]
+      },
+      {
+        "season_title": "Season 2",
+        "episodes": [
+          { "title": "S02 E01: Dhenkul", "url": "http://6rga.a0p3.com/vod/1/2025/07/04/9b2dac7b3684/218379044.mp4?wsSecret=f057e655179b20621dbef7fb72b4b236&wsTime=686a6e16" },
+          { "title": "S02 E02: Khargosh", "url": "https://example.com/mirzapur_s02e02.mp4" },
+          { "title": "S02 E03: Viklaang Quota", "url": "https://example.com/mirzapur_s02e03.mp4" },
+          { "title": "S02 E04: Bhaymukt", "url": "https://example.com/mirzapur_s02e04.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "series-panchayat",
+    "title": "Panchayat",
+    "logoUrl": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/8535/1708535-h-d27555627f31",
+    "seasons": [
+      {
+        "season_title": "Season 1",
+        "episodes": [
+            { "title": "S01 E01: Gram Panchayat Phulera", "url": "https://example.com/panchayat_s01e01.mp4" },
+            { "title": "S01 E02: Bhootha Ped", "url": "https://example.com/panchayat_s01e02.mp4" }
+        ]
+      }
+    ]
+  }
+]
