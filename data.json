@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Attack on Titan",
+    "type": "Anime",
+    "year": "2013",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00OGQ4LWE3OGYtNDdiMzNiNDZlMDAwXkEyXkFqcGdeQXVyNzI3NjY3NjQ@._V1_SX300.jpg",
+    "description": "After his hometown is destroyed and his mother is killed, young Eren Yeager vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction."
+  },
+  {
+    "id": 2,
+    "title": "Stranger Things",
+    "type": "Series",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTA5MDEyNTcyNV5BMl5BanBnXkFtZTgwNjM0NDMxMjE@._V1_SX300.jpg",
+    "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces in order to get him back."
+  },
+  {
+    "id": 3,
+    "title": "Death Note",
+    "type": "Anime",
+    "year": "2006",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRiNmNjMmMtN2U2Yi00ODg4LWE3ZTYtNDQ4MGY oblongU2MmI2XkEyXkFqcGdeQXVyNjY5NTY5MjM@._V1_SX300.jpg",
+    "description": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook that can kill anyone whose name is written in it."
+  },
+  {
+    "id": 4,
+    "title": "The Witcher",
+    "type": "Series",
+    "year": "2019",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjllZjI2YWEtYWE5Yi00MWFlLTg1NTYtNWU3N2E4YmM4YTA5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+    "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts."
+  },
+  {
+    "id": 5,
+    "title": "Jujutsu Kaisen",
+    "type": "Anime",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkMS00ZDIyLWIyYWUtZWYwODRhMmMwNjPjXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_SX300.jpg",
+    "description": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself."
+  },
+  {
+    "id": 6,
+    "title": "Money Heist",
+    "type": "Series",
+    "year": "2017",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_SX300.jpg",
+    "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain."
+  }
+]
